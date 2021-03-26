@@ -14,5 +14,5 @@ The Modules used are:<br><br>
 Documentation: https://docs.python.org/3/library/tk.html<br><br>
 2. Pyperclip (To be installed using pip)<br><br>
 Documentation: https://pyperclip.readthedocs.io/en/latest<br><br>
-3. Json
-Documentation: https://docs.python.org/3/library/json.html<br><br>
+3. Json<br><br>
+Documentation: https://docs.python.org/3/library/json.html
